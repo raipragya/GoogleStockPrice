@@ -25,9 +25,7 @@ To run this project, you need the following dependencies:
 
 Installation
 
-    Clone the repository:
-
-git clone 
+    Clone the repository using git clone
 
 
 Install dependencies:
