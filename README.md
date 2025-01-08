@@ -21,7 +21,6 @@ To run this project, you need the following dependencies:
     Matplotlib
     Scikit-learn
     Keras
-    TensorFlow
 
 Installation
 
